@@ -12,7 +12,7 @@ This program was created using Python.
 
 ## Installation Guide
 
-git clone https://github.com/chance2424/Amazon-bot.git
+git clone https://github.com/chance2424/crypto_wallet.git
 ---
 
 ## Contributors
